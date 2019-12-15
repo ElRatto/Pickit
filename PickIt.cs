@@ -627,7 +627,7 @@ namespace PickIt
             var playerPos = GameController.Player.GridPos;
             List<Tuple<int, Vector3>> currentLabels = GameController.Game.IngameState.IngameUi.ItemsOnGroundLabels.ToList()
                                                         .Where(x => (x.Address != 0
-                                                        && x.ItemOnGround.Path.ToLower().Contains("metamorph")
+                                                        && x.ItemOnGround.Path.ToLower().Contains("metamorphosismonstermarker")
                                                         ))
                                                 .Select(x => new Tuple<int, Vector3>((int)Misc.EntityDistance(x.ItemOnGround, player), x.ItemOnGround.Pos))
                                                 .OrderBy(x => x.Item1)
