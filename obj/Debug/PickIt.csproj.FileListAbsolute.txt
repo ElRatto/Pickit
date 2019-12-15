@@ -1,0 +1,11 @@
+C:\Dropbox\Sachen\HUD\PoeHelper\Plugins\Compiled\PickIt\PickIt.dll
+C:\Dropbox\Sachen\HUD\PoeHelper\Plugins\Compiled\PickIt\PickIt.pdb
+C:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.csprojAssemblyReference.cache
+C:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.csproj.CoreCompileInputs.cache
+C:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.dll
+C:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.pdb
+D:\Dropbox\Sachen\HUD\PoeHelper\Plugins\Compiled\PickIt\PickIt.dll
+D:\Dropbox\Sachen\HUD\PoeHelper\Plugins\Compiled\PickIt\PickIt.pdb
+D:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.csprojAssemblyReference.cache
+D:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.dll
+D:\Dropbox\Sachen\HUD\ExileApi\Plugins\Source\PickIt\obj\Debug\PickIt.pdb
